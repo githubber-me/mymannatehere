@@ -6,5 +6,7 @@ i=5
 g=15
 b=8
 x=4
-c=a+b+d+e+g+h+i+x
+y=25
+z=100
+c=a+b+d+e+g+h+i+x+y+z
 print(c)
